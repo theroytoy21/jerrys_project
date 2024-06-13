@@ -1,1 +1,1 @@
-# jerrys_project
+Unzip this file for the Python Flask backend.
